@@ -65,7 +65,6 @@ bash
 
 ## 🔗 Links & Resources
 - *Live Application:* [https://ml-projects-u5s7mywtbzs2rrdf9hiows.streamlit.app/]
-- *LinkedIn Post:* []
 - *Dataset:* CarDekho Dataset (Kaggle)
 
 ---
