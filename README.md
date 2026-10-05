@@ -62,29 +62,7 @@ This helps me understand the complete journey from:
 
 Dataset → Preprocessing → Model → Evaluation → Application → Deployment
 
-📁 Repository Structure
 
-ML-Practice/
-│
-├── Regression/
-│   ├── Linear-Regression/
-│   ├── Multiple-Linear-Regression/
-│   └── Decision-Tree-Regression/
-│
-├── Classification/
-│   ├── Logistic-Regression/
-│   ├── KNN/
-│   ├── Naive-Bayes/
-│   └── Decision-Trees/
-│
-├── Clustering/
-│   ├── K-Means/
-│   └── DBSCAN/
-│
-├── Dimensionality-Reduction/
-│   └── PCA/
-│
-└── README.md
 
 📌 Purpose
 
