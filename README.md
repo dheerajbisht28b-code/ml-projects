@@ -1,5 +1,3 @@
-Machine Learning Practice & Projects
-
 Welcome to my Machine Learning Practice Repository.
 
 This repository documents my learning journey in Machine Learning, where I build end-to-end projects using different ML models as I learn them.
